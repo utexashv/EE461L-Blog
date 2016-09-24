@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/cron/emailCron</url>
+    <description>Emails a daily report at 5pm</description>
+    <schedule>every day 17:00</schedule>
+    <timezone>US/Central</timezone>
+  </cron>
+  
+</cronentries>
